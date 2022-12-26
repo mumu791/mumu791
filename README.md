@@ -1,9 +1,11 @@
-### Hi there 👋
-## 개발자 취업을 원하는 김미진 입니다.
+<!--https://github.com/kyechan99/capsule-render#wave  헤더 효과-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MIJINKIM&fontAlignY=35&animation=twinkling&desc=Hi%20there%20👋&descsize=70&descAlignY=61&descAlign=82&stroke=000000&strokeWidth=2)
+
+
+#### 개발자 취업을 원하는 김미진 입니다.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mumu791.mumu791)
 
-<br />
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -24,6 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
+ <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumu791&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 <!--START_SECTION:waka-->
 
 ```text
