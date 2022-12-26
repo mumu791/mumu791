@@ -1,12 +1,11 @@
 <div align=center>
  
 <!--https://github.com/kyechan99/capsule-render#wave  헤더 효과-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&text=Hi%20there%20👋&fontSize=30&fontAlignY=60&fontAlign=50&stroke=000000&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&text=Hi%20there%20!&fontSize=30&fontAlignY=60&fontAlign=50&stroke=000000&strokeWidth=1)
  
-### ⭐ 안녕하세요. 신입 개발자 김미진 입니다. ⭐
+###  👋안녕하세요. 신입 개발자 김미진 입니다. 
 
 
-🌱 I’m currently learning ![Awesome](https://img.shields.io/badge/react-E34F26?logo=react&style=plastic)
 <br></br><br></br>
 
 #### 🛠 My Languages and tools 🛠 <br></br>
@@ -23,6 +22,7 @@
 ---
 
 ####  📬 Contact 📬
+### [<img src="https://img.shields.io/badge/Potfolio-@modoo.com-740000?style=plastic"/>](https://mm432.modoo.at/)
 ##### 👉 [<img src="https://img.shields.io/badge/aa79188-@naver.com-03C75A?logo=Naver&style=plastic"/>](aa79188@naver.com) [<img src="https://img.shields.io/badge/aa79188b-@gmail.com-EA4335?logo=Gmail&style=plastic"/>](aa79188b@gmail.com)  👈
 
 </div>
